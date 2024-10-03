@@ -1,4 +1,4 @@
-<h1 align="left">Hey 👋 Tudo bem?</h1>
+<h1 align="left">Hey, tudo bem?👋 </h1>
 
 ###
 
@@ -10,7 +10,7 @@
 
 ###
 
-<h2 align="left">About me</h2>
+<h2 align="left">Sobre Mim</h2>
 
 ###
 

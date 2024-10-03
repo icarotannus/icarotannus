@@ -2,7 +2,11 @@
 
 ###
 
-<p align="left">Me chamo Ícaro ... and I'm a ..., from ....</p>
+<p align="left">Me chamo Ícaro, tenho 31 anos e sou de Salvador, Bahia. Moro em São Paulo e estou em transição de carreira.
+                <br>
+                Sou Produtor Musical e trabalho vendendo arranjos pela internet, mas quero entrar no mercado de tecnologia como desenvolvedor front end. Cursei 1 ano de
+                análise e desenvolvimento de sistemas e tranquei a faculdade para focar na prática e nos estudos do desenvolvimento web. 
+</p>
 
 ###
 

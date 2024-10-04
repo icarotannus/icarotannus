@@ -11,11 +11,19 @@
 
 ###
 
-<p align="left">🖥️ Apaixonado por Tecnologia.<br>📚 Ávido por Conhecimento.<br>🎨 Movido a Arte.<br>🎯 Focado.</p>
+<p align="left">🖥️ Apaixonado por Tecnologia.<br>📚 Ávido por Conhecimento.<br>🎨 Movido a Arte.<br> <br>🎯 Focado.</p>
 
 ###
 
 <h2 align="left">Tecnologias</h2>
+
+###
+
+<h2 align="left">Soft Skills</h2>
+
+###
+
+<p align="left">🖥️ Apaixonado por Tecnologia.<br>📚 Ávido por Conhecimento.<br>🎨 Movido a Arte.<br> <br>🎯 Orientado por Metas.</p>
 
 ###
 

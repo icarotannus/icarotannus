@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Me chamo Ícaro, tenho 31 anos e sou de Salvador, Bahia. Moro em São Paulo e estou em transição de carreira. Sou Produtor Musical e trabalho vendendo arranjos pela internet, mas quero entrar no mercado de tecnologia como desenvolvedor front end. Cursei 1 ano de análise e desenvolvimento de sistemas e tranquei a faculdade para focar na prática e nos estudos do desenvolvimento web. Sou muito vidrado em arte e tecnologia, o que me faz enxergar no Front End um caminho interessante para explorar essas 2 paixões.
+<p align="left">Me chamo Ícaro, tenho 31 anos e sou de Salvador, Bahia. Moro em São Paulo e estou em transição de carreira. Sou Beatmaker e trabalho vendendo arranjos musicais pela internet, mas quero mudar de carreira e entrar no mercado de tecnologia como desenvolvedor front end. Cursei 1 ano de análise e desenvolvimento de sistemas e tranquei a faculdade para focar na prática e nos estudos do desenvolvimento web. Sou muito vidrado em arte e tecnologia, o que me faz enxergar no Front End um caminho interessante para explorar essas 2 paixões.
 </p>
 
 ###
@@ -19,7 +19,12 @@
 
 
 
-<p align="left">🖥️ Apaixonado por Tecnologia.<br>📚 Ávido por Conhecimento.<br>🎯 Orientado por Metas.<br>🎨 Movido a Arte.<br></p>
+<p align="left">💡 Criatividade: Penso dentro e fora da caixa para resolver desafios visuais e  problemas de funcionalidade.<br>
+                ✨ Resolução de problemas: Identificação rápida de problemas e soluções práticas.<br>
+                🕚 Gestão do tempo: Organização para priorizar tarefas e cumprir prazos.<br>
+                🧠 Adaptabilidade: Flexibilidade para aprender e se ajustar a mudanças.<br>
+                🤝 Trabalho em equipe: Facilidade para a colaboração eficiente em torno de metas comuns.<br>
+</p>
 
 ###
 

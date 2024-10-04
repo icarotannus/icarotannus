@@ -11,7 +11,7 @@
 
 ###
 
-<p align="left">🖥️ Apaixonado por Tecnologia.<br>📚 Ávido por Conhecimento.<br>🎯 Orientado por Metas.<br>🎨 Movido a Arte.<br></p>
+<p align="left">🖥️ Apaixonado por Tecnologia.<br>📚 Ávido por Conhecimento.<br>🎯 Orientado por Metas.<br>🎨 Movido a Arte.<br>☕ Coffee Lover.</p>
 
 ###
 

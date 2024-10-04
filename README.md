@@ -18,12 +18,12 @@
 
 ###
 
-<h2 align="left">Tecnologias: c</h2>
+<h2 align="left">Tecnologias:</h2>
 
 ###
 
 <div align="left">
-  <img src="https://pt.m.wikipedia.org/wiki/Ficheiro:HTML5_logo_and_wordmark.svg" height="40" alt="HTML Logo"  />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/512px-HTML5_logo_and_wordmark.svg.png" height="40" alt="HTML Logo"  />
   <img width="12" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/363px-CSS3_logo_and_wordmark.svg.png" height="40" alt="CSS Logo"  />
   <img width="12" />

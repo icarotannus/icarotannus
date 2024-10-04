@@ -23,7 +23,7 @@
                 ✨ Resolução de problemas: Identificação rápida de problemas e soluções práticas.<br>
                 🕚 Gestão do tempo: Organização para priorizar tarefas e cumprir prazos.<br>
                 🧠 Adaptabilidade: Flexibilidade para aprender e se ajustar a mudanças.<br>
-                🤝 Trabalho em equipe: Facilidade para a colaboração eficiente em torno de metas comuns.<br>
+                🤝 Trabalho em equipe: Facilidade para a colaboração eficiente em torno de metas em comun.<br>
 </p>
 
 ###

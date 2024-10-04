@@ -5,7 +5,8 @@
 <p align="left">Me chamo Ícaro, tenho 31 anos e sou de Salvador, Bahia. Moro em São Paulo e estou em transição de carreira.
                 <br>
                 Sou Produtor Musical e trabalho vendendo arranjos pela internet, mas quero entrar no mercado de tecnologia como desenvolvedor front end. Cursei 1 ano de
-                análise e desenvolvimento de sistemas e tranquei a faculdade para focar na prática e nos estudos do desenvolvimento web. 
+                análise e desenvolvimento de sistemas e tranquei a faculdade para focar na prática e nos estudos do desenvolvimento web. Sou muito vidrado em artes plásticas
+                e vejo no front end o caminho pra exprimir essa paixão de maneira
 </p>
 
 ###
@@ -14,7 +15,7 @@
 
 ###
 
-<p align="left">🖥️ Apaixonado por Tecnologia.<br>📚 Ávido por Conhecimento<br>🧠 Orientado por <br>📚 Leitor Ávido</p>
+<p align="left">🖥️ Apaixonado por Tecnologia.<br>📚 Ávido por Conhecimento.<br>🎨 Movido a Arte.<br>🎶 Movido a Música.</p>
 
 ###
 
@@ -30,6 +31,10 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="Javascript Logo"  />
   <img width="12" />
   <img src="https://upload.wikimedia.org/wikipedia/pt/thumb/3/30/Java_programming_language_logo.svg/800px-Java_programming_language_logo.svg.png" height="40" alt="Java Logo"  />
+  <img width="12" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/1280px-Bootstrap_logo.svg.png" height="40" alt="Bootstrap Logo"  />
+  <img width="12" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1024px-React-icon.svg.png" height="40" alt="Bootstrap Logo"  />
   <img width="12" />
 </div>
 

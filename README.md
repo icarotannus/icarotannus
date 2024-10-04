@@ -29,7 +29,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="Javascript Logo"  />
   <img width="12" />
-  <img src="https://upload.wikimedia.org/wikipedia/pt/thumb/3/30/Java_programming_language_logo.svg/96px-Java_programming_language_logo.svg.png" height="40" alt="Java Logo"  />
+  <img src="https://upload.wikimedia.org/wikipedia/pt/thumb/3/30/Java_programming_language_logo.svg/800px-Java_programming_language_logo.svg.png" height="40" alt="Java Logo"  />
   <img width="12" />
 </div>
 

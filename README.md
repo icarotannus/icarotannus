@@ -23,7 +23,7 @@
 
 ###
 
-<p align="left">🖥️ Apaixonado por Tecnologia.<br>📚 Ávido por Conhecimento.<br>🎨 Movido a Arte.<br> <br>🎯 Orientado por Metas.</p>
+<p align="left">🖥️ Apaixonado por Tecnologia.<br>📚 Ávido por Conhecimento.<br>🎯 Orientado por Metas.<br>🎨 Movido a Arte.<br></p>
 
 ###
 

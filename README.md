@@ -39,3 +39,14 @@
 </div>
 
 ###
+
+<h2 align="left">Ferramentas</h2>
+
+###
+
+<div align="left">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/1024px-Visual_Studio_Code_1.35_icon.svg.png" height="40" alt="VSCode Logo"  />
+  <img width="12" />
+</div>
+
+###
